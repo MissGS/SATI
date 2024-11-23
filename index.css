@@ -4,18 +4,23 @@
     src: url('UnidreamLED.ttf');
 }
 
+/* 重置默认样式 */
 *{
     margin: 0;
     padding: 0;
 }
-body{
-    width: 100%;
-    height: 100%;
+
+/* 设置背景图片 */
+body {
+    background-image: url('fj.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+/* 设置时钟样式 */
 .clock{
     width: 100%;
     height: 100%;
-    background-color: #141929;
     position: absolute;
     display: flex;
     justify-content: center;
@@ -24,10 +29,13 @@ body{
     overflow: hidden;
     font-family: UnidreamLED;
 }
+
 /* 当前时间样式 */
 .now-date{
     -webkit-text-fill-color: #ffffff;
 }
+
+/* 年份样式 */
 .year-box{
     width: 20vh;
     height: 20vh;
@@ -40,6 +48,8 @@ body{
     transition: 1s;
     -webkit-text-fill-color: #ffffff;
 }
+
+/* 月份样式 */
 .month-box{
     width: 25vh;
     height: 25vh;
@@ -49,6 +59,8 @@ body{
     border-radius: 50%;
     transition: 1s;
 }
+
+/* 日期样式 */
 .day-box{
     width: 40vh;
     height: 40vh;
@@ -58,6 +70,8 @@ body{
     border-radius: 50%;
     transition: 1s;
 }
+
+/* 小时样式 */
 .hour-box{
     width: 55vh;
     height: 55vh;
@@ -67,6 +81,8 @@ body{
     border-radius: 50%;
     transition: 1s;
 }
+
+/* 分钟样式 */
 .minute-box{
     width: 70vh;
     height: 70vh;
@@ -76,6 +92,8 @@ body{
     border-radius: 50%;
     transition: 1s;
 }
+
+/* 秒钟样式 */
 .second-box{
     width: 85vh;
     height: 85vh;
