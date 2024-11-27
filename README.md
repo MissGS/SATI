@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c162c090-a9f9-4e9a-9b54-209ebe2c3ce8)
 <h3>这是一个前端写的罗盘时钟 灵感来源于网络</h3><br>
 
 <h1>如何设置为壁纸?</h1><br>
@@ -12,6 +11,7 @@
 <h3>如何更换壁纸？</h3><br>
 <a>打开index.css</a><br>
 <a>找到第15行 图片示意:https://github.com/user-attachments/assets/68fca883-b222-4a80-9015-ecf1b1543d50</a><br>
+![image](https://github.com/user-attachments/assets/c162c090-a9f9-4e9a-9b54-209ebe2c3ce8)
 <a>更改图片路径 注意分为绝对路径和相对路径 自行搜索</a><br>
 <a>保存 重新导入Lively Wallpaper</a>
 ![Snipaste_2024-11-27_15-57-12](https://github.com/user-attachments/assets/c162c090-a9f9-4e9a-9b54-209ebe2c3ce8)
