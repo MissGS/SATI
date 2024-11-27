@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/078a08d3-674b-44a5-b4a1-827cc05ed426)<h1>SATI</h1><br>
+
 <h3>这是一个前端写的罗盘时钟 灵感来源于网络</h3><br>
 
 <h1>如何设置为壁纸?</h1><br>
@@ -12,5 +12,6 @@
 <h3>如何更换壁纸？</h3>
 <a>打开index.css</a>
 <a>找到第15行 图片示意:https://github.com/user-attachments/assets/68fca883-b222-4a80-9015-ecf1b1543d50</a>
+![image](https://github.com/user-attachments/assets/078a08d3-674b-44a5-b4a1-827cc05ed426)<h1>SATI</h1><br>
 <a>更改图片路径 注意分为绝对路径和相对路径 自行搜索</a>
 <a>保存 重新导入Lively Wallpaper</a>
