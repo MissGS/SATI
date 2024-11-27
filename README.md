@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/1eb23f4d-f306-42ab-8075-c55b3c76102a)
 
-<a>3:导入文件 注意:只需导入xxx.html的界面</a><br>
+<a>3:导入文件 注意：只需导入xxx.html的界面</a><br>
 <a>4:完成</a>
 
 <h1>进阶使用</h1><br>
@@ -17,8 +17,8 @@
 
 ![image](https://github.com/user-attachments/assets/c162c090-a9f9-4e9a-9b54-209ebe2c3ce8)
 
-<a>更改图片路径 注意分为绝对路径和相对路径</a><br>
+<a>更改图片路径 注意：分为绝对路径和相对路径</a><br>
 
-![image](https://github.com/user-attachments/assets/9de30338-8eb7-45d4-9019-cf6ca846b00b)
+![image](https://github.com/user-attachments/assets/4b2a8a9f-1915-494e-87cb-a29887ca1506)
 
 <a>保存 重新导入Lively Wallpaper</a>
