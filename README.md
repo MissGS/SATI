@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/990a3892-ef86-4722-8f23-b6c7b2090baa)
+![image](https://github.com/user-attachments/assets/c162c090-a9f9-4e9a-9b54-209ebe2c3ce8)
 <h3>这是一个前端写的罗盘时钟 灵感来源于网络</h3><br>
 
 <h1>如何设置为壁纸?</h1><br>
