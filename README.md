@@ -1,6 +1,9 @@
 <h1>这是一个前端写的罗盘时钟</h1><br>
 <h3>灵感来源于bilibili大佬 @艾恩小灰灰</h3><br>
 
+<h1>特别鸣谢</h1><br>
+<h3>一言提供：Hitokoto</h3><br>
+
 <h1>如何设置为壁纸?</h1><br>
 <h3>Lively Wallpaper</h3><br>
 <a>1:下载Lively Wallpaper 大佬开发开源免费的(自行下载)</a><br>
