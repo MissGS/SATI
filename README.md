@@ -17,7 +17,7 @@
 <h1>进阶使用</h1><br>
 <h3>如何更换壁纸？</h3><br>
 <a>打开index.css文件</a><br>
-<a>找到第15行 图片示意见下图</a><br>
+<a>找到第这一行 图片示意见下图</a><br>
 
 ![image](https://github.com/user-attachments/assets/c162c090-a9f9-4e9a-9b54-209ebe2c3ce8)
 
