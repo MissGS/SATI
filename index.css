@@ -103,3 +103,19 @@ body {
     border-radius: 50%;
     transition: 1s;
 }
+
+/* 悬浮的毛玻璃效果容器 */
+#hitokoto {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.2); /* 半透明背景 */
+    border-radius: 10px;
+    backdrop-filter: blur(10px); /* 毛玻璃效果 */
+    color: white;
+    font-size: 18px;
+    max-width: 300px;
+    word-wrap: break-word;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

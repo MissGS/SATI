@@ -138,3 +138,25 @@ transformBox();
 setInterval(()=>{
     transformBox();
 },1000);
+
+// 获取一言的函数
+function fetchHitokoto() {
+    const url = 'https://v1.hitokoto.cn?c=a';  // 请求动漫类的句子，您可以更改 c 参数来选择其他类型
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            // 显示获取到的句子
+            document.getElementById('hitokoto').textContent = data.hitokoto;
+         })
+        .catch(error => {
+             // 错误处理
+             console.error('Error fetching data:', error);
+            document.getElementById('hitokoto').textContent = '获取失败，请稍后再试。';
+        });
+}
+
+// 每隔60秒刷新一次一言
+setInterval(fetchHitokoto, 60000);
+
+// 页面加载时自动调用一次以显示初始句子
+fetchHitokoto();
