@@ -1,5 +1,7 @@
 <h1>这是一个前端写的罗盘时钟</h1><br>
 <h3>灵感来源于bilibili大佬 @艾恩小灰灰</h3><br>
+<h3>TG频道链接：https://t.me/TGldklsg</h3>
+
 
 <h1>特别鸣谢</h1><br>
 <h3>一言提供：Hitokoto</h3><br>
